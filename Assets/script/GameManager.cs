@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour
             Debug.Log("GAME OVER");
             Invoke("Restart", delay);
         }
-
+        Debug.Log("19 dollar fornite card");
     }    
     void Restart()
     {
